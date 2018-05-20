@@ -1,0 +1,12 @@
+# ignore pycache
+__pycache__
+
+# ignore jupyter checkpoints
+.ipynb_checkpoints/
+
+# ignore swap files
+.swp
+
+# ignore given libraries
+simple_markov_chain_lib.py
+
