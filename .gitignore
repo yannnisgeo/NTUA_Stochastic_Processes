@@ -7,6 +7,4 @@ __pycache__
 # ignore swap files
 .swp
 
-# ignore given libraries
-simple_markov_chain_lib.py
 
