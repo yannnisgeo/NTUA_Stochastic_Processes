@@ -1,5 +1,10 @@
+#given requirements
+
 numpy
 Scipy
 matplotlib
 networkx
 jupyter
+
+#for any animation to initiate from notebook
+PyQt5
