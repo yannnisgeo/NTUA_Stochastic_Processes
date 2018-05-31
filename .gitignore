@@ -6,3 +6,6 @@ __pycache__
 
 # ignore swap files
 *.swp
+
+# ignore HTML formats Of My Solutions
+My Solutions/My Solutions (HTML)
